@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3792","test_order_flow[order_data0]","test","Sun Sep 08 10:49:54 AMT 2024","passed","Sun Sep 08 10:49:58 AMT 2024","","test_orders_section","",""
+"","7814","test_scooter_logo_redirect","test","Sun Sep 08 10:49:28 AMT 2024","passed","Sun Sep 08 10:49:36 AMT 2024","TestLogoRedirects","test_logo_redirect","",""
+"","3717","test_order_flow[order_data1]","test","Sun Sep 08 10:50:16 AMT 2024","passed","Sun Sep 08 10:50:20 AMT 2024","","test_orders_section","",""
+"","3636","test_yandex_logo_redirect","test","Sun Sep 08 10:49:36 AMT 2024","passed","Sun Sep 08 10:49:39 AMT 2024","TestLogoRedirects","test_logo_redirect","",""
+"","8817","test_question_answer","test","Sun Sep 08 10:50:32 AMT 2024","passed","Sun Sep 08 10:50:40 AMT 2024","TestSection","test_question_importance_section","",""
